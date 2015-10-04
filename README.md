@@ -13,8 +13,8 @@ Authors
 
 Contributors
 ------------
-* (run\_cgi) **Python Software Foundation.
-* (Jinja2) the **Jinja Team.
+* (run\_cgi) **Python Software Foundation**.
+* (Jinja2) the **Jinja Team**.
 * (MarkupSafe) **Armin Ronacher** and the contributors.
 * (jQuery) the **jQuery Foundation**.
 * (Twitter Bootstrap) **Twitter, Inc**.
@@ -112,8 +112,8 @@ Usage (with installation)
 
 9. As a user, run ``/usr/local/bin/saku``.
 
-How to Install Required Packages on Debian GNU/Linux 7.4
----------------------------------------------------------
+How to install all required packages on Debian GNU/linux 7.4
+------------------------------------------------------------
 1. ``sudo aptitude install python3 python3-jinja2 python3-pip``
 2. ``sudo aptitude install libjpeg-dev libopenjpeg-dev libtiff-dev libwebp-dev``
 3. ``sudo pip-3.2 install Pillow``
