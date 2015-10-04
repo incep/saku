@@ -3,23 +3,23 @@ Saku - a clone of P2P anonymous BBS shinGETsu
 
 Authors
 -------
-* (main) ***Satoshi Fukutomi*** <fuktommy@shingetsu.info>
-* ***sbwhitecap***
-* (apollo) ***replaceable anonymous***.
-* (2ch interface) ***kkka***
-* (thumbnail patch) ***A shinGETsu user***.
-* (imghdr patch) ***A shinGETsu user***.
-* (js extensions) ***shinGETsu users***.
+* (main) *Satoshi Fukutomi* <fuktommy@shingetsu.info>
+* *sbwhitecap*
+* (apollo) *replaceable anonymous*.
+* (2ch interface) *kkka*
+* (thumbnail patch) *A shinGETsu user*.
+* (imghdr patch) *A shinGETsu user*.
+* (js extensions) *shinGETsu users*.
 
 Contributors
 ------------
-* (**run\_cgi**) ***Python Software Foundation***.
-* (**Jinja2**) the ***Jinja Team***.
-* (**MarkupSafe**) ***Armin Ronacher*** and his contributors.
-* (**jQuery**) the ***jQuery Foundation***.
-* (**Twitter Bootstrap**) ***Twitter, Inc***.
-* (**jQuery Lazy**) ***Daniel 'Eisbehr' Kern***
-* (**Spoiler Alert**) ***Joshua Hull***, ***Jared Volpe***, and ***Dwayne Charrington***
+* (**run\_cgi**) *Python Software Foundation*.
+* (**Jinja2**) the *Jinja Team*.
+* (**MarkupSafe**) *Armin Ronacher* and his contributors.
+* (**jQuery**) the *jQuery Foundation*.
+* (**Twitter Bootstrap**) *Twitter, Inc*.
+* (**jQuery Lazy**) *Daniel 'Eisbehr' Kern*
+* (**Spoiler Alert**) *Joshua Hull*, *Jared Volpe*, and *Dwayne Charrington*
 
 Website and etymology
 ---------------------
