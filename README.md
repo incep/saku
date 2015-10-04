@@ -40,7 +40,7 @@ Only if you agree the following terms, you can join the shinGETsu network.
 
 Description
 -----------
-* Saku is a P2P anonymous BBS works on Python.
+* Saku is a P2P anonymous BBS node that works on Python.
 * We've confirmed that Saku works on CPython 3.2 on GNU/Linux.
     Saku may not work on Mac OS 9 or any older version.
 * The features of shinGETsu include:
