@@ -28,12 +28,12 @@ Website
 SAKU stands for "Shingetsu Another Keen Utility."
 Both the word "saku" and "shingetsu" mean the new moon in Japanese.
 
-Agreement
----------
+Agreements
+----------
 Agree the following terms and you can join shinGETsu network.
 
 * Describe your own licence, if any, in every article you submit.
-  Otherwise, ALL your articles are treated as open, public and/or free:
+  Otherwise, **ALL** your articles are treated as open, public and/or free:
   anyone can use, modify and/or redistribute them.
 * Do not use the network for any illegal purpose.
 * Do not use the network at the cost of others.
@@ -51,9 +51,9 @@ Description
 
 Requirements
 ------------
-* [Python](https://www.python.org/) (ver.3.2 or later)
-* [Jinja2](http://jinja.pocoo.org/docs/dev/) (ver.2.6) if you install Saku using ``setup.py``
-* [markupsafe](http://www.pocoo.org/projects/markupsafe/) (ver.0.19 or later) if you install Saku
+* [Python](https://www.python.org/) (ver. 3.2 or later)
+* [Jinja2](http://jinja.pocoo.org/docs/dev/) (ver. 2.6) if you install Saku using ``setup.py``
+* [markupsafe](http://www.pocoo.org/projects/markupsafe/) (ver. 0.19 or later) if you install Saku
 * [Pillow](https://pypi.python.org/pypi/Pillow/3.0.0) or [PIL](http://www.pythonware.com/products/pil/) (Python Imaging Library), if required
 * [Supervisor](http://supervisord.org/), if needed
 
