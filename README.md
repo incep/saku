@@ -3,34 +3,34 @@ Saku - a clone of P2P anonymous BBS shinGETsu
 
 Authors
 -------
-* (main) Satoshi Fukutomi <fuktommy@shingetsu.info>
-* sbwhitecap
-* (apollo) replaceable anonymous.
-* (2ch interface) kkka
-* (thumbnail patch) A shinGETsu user.
-* (imghdr patch) A shinGETsu user.
-* (js extensions) shinGETsu users.
+* (main) ***Satoshi Fukutomi*** <fuktommy@shingetsu.info>
+* ***sbwhitecap***
+* (apollo) ***replaceable anonymous***.
+* (2ch interface) ***kkka***
+* (thumbnail patch) ***A shinGETsu user***.
+* (imghdr patch) ***A shinGETsu user***.
+* (js extensions) ***shinGETsu users***.
 
 Contributors
 ------------
-* (run\_cgi) **Python Software Foundation**.
-* (Jinja2) the **Jinja Team**.
-* (MarkupSafe) **Armin Ronacher** and the contributors.
-* (jQuery) the **jQuery Foundation**.
-* (Twitter Bootstrap) **Twitter, Inc**.
-* (jQuery Lazy) **Daniel 'Eisbehr' Kern**
-* (Spoiler Alert) **Joshua Hull**, **Jared Volpe**, and **Dwayne Charrington**
+* (**run\_cgi**) ***Python Software Foundation***.
+* (**Jinja2**) the ***Jinja Team***.
+* (**MarkupSafe**) ***Armin Ronacher*** and his contributors.
+* (**jQuery**) the ***jQuery Foundation***.
+* (**Twitter Bootstrap**) ***Twitter, Inc***.
+* (**jQuery Lazy**) ***Daniel 'Eisbehr' Kern***
+* (**Spoiler Alert**) ***Joshua Hull***, ***Jared Volpe***, and ***Dwayne Charrington***
 
 Website and etymology
 ---------------------
 * http://www.shingetsu.info/
 
-*SAKU* stands for "**S**hingetsu **A**nother **K**een **U**tility."
+SAKU stands for "**S**hingetsu **A**nother **K**een **U**tility."
 Both the word *saku* and *shingetsu* mean the new moon in Japanese.
 
 Agreements before going in
 --------------------------
-Agree the following terms and you can join shinGETsu network.
+Only if you agree the following terms, you can join the shinGETsu network.
 
 * Describe your own licence, if any, in every article you submit.
   Otherwise, **ALL** your articles are treated as open, public and/or free:
@@ -47,25 +47,25 @@ Description
     * *2ch.net*-style interface
     * *Wiki*-style hyperlinks
     * *IRC*-style cache function
-    * Uploader
+    * Works as an uploader
 
 Requirements
 ------------
-* [Python](https://www.python.org/) (ver. 3.2 or later)
-* [Jinja2](http://jinja.pocoo.org/docs/dev/) (ver. 2.6) if you install Saku using ``setup.py``
-* [markupsafe](http://www.pocoo.org/projects/markupsafe/) (ver. 0.19 or later) if you install Saku
-* [Pillow](https://pypi.python.org/pypi/Pillow/3.0.0) or [PIL](http://www.pythonware.com/products/pil/) (Python Imaging Library), if required
-* [Supervisor](http://supervisord.org/), if needed
+* **[Python](https://www.python.org/)** (ver. 3.2 or later)
+* **[Jinja2](http://jinja.pocoo.org/docs/dev/)** (ver. 2.6) if you install Saku using ``setup.py``
+* **[markupsafe](http://www.pocoo.org/projects/markupsafe/)** (ver. 0.19 or later) if you install Saku
+* **[Pillow](https://pypi.python.org/pypi/Pillow/3.0.0)** or **[PIL](http://www.pythonware.com/products/pil/)** (Python Imaging Library), if required
+* **[Supervisor](http://supervisord.org/)**, if needed
 
 Usage (without installation)
 ----------------------------
 1. Open port ``8000/tcp``.
-2. Edit ``(your extract path)/file/saku.ini``.
-3. Start with
+2. Edit ``<extract path>/file/saku.ini``.
+3. Start Saku with
 
         % python ./saku.py -v
 4. Browse ``http://localhost:8000/``.
-5. Stop with ``Ctrl-c``.
+5. Stop Saku with ``Ctrl-c``.
 
 Usage (with installation)
 -------------------------
@@ -101,12 +101,12 @@ Usage (with installation)
         * ``~/.saku/saku.ini``
 
 5. Setup users and directories referring to the config files.
-6. Start with
+6. Start Saku with
 
         # /usr/local/etc/init.d/saku start
 
 7. Browse ``http://localhost:8000/``.
-8. Stop with
+8. Stop Saku with
 
         # /usr/local/etc/init.d/saku stop
 
