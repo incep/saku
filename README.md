@@ -33,7 +33,7 @@ Agreements before going in
 Only if you agree the following terms, you can join the shinGETsu network.
 
 * Describe your own licence, if any, in every article you submit.
-  Otherwise, **ALL** your articles are treated as open, public and/or free:
+  Otherwise, **ALL** your articles are treated as public domain:
   anyone can use, modify and/or redistribute them.
 * Do not use the network for any illegal purpose.
 * Do not use the network at the cost of others.
